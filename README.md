@@ -34,6 +34,7 @@ A place where we showcase selected **projects**, **scripts**, and **mini-apps** 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 |pass.py|Generate a Password|Pyhton3, random madule, string madule
+|Calculator.py|a scientific calculator|math madule
 
 ---
 
