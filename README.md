@@ -35,6 +35,7 @@ A place where we showcase selected **projects**, **scripts**, and **mini-apps** 
 |--------|-------------|--------------|
 |pass.py|Generate a Password|Pyhton3, random madule, string madule
 |Calculator.py|a scientific calculator|math madule
+|Sigma Manager.py|a NoteBook and TaskManager|tkinter madule, datetime madule
 
 ---
 
