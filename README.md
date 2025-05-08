@@ -46,14 +46,14 @@ A place where we showcase selected **projects**, **scripts**, and **mini-apps** 
 - JavaScript
 - Bash / CLI tools
 - Git, GitHub
-- AI libraries (scikit-learn, pandas, matplotlib, etc.)
+- AI libraries (numpy, scikit-learn, pandas, matplotlib, etc.)
 - VS Code
 
 ---
 
 ## 👨‍👦‍👦 Core Members
 
-- **Seyed AmirAli Shafighi** – AI & Python Developer  
+- **Seyyed AmirAli Shafighi** – AI & Python Developer  
 - **Borna YousefiZadeh** – Co-developer and Open Source Contributor and Web Developer
 
 _We're still growing — and always learning._
